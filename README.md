@@ -2,11 +2,11 @@
 
 
 <a target="_blank" href="https://github.com/ac5tin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ac5tin&show_icons=true&theme=radical&count_private=true&hide=stars" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=ac5tin&show_icons=true&theme=radical&count_private=true&hide=stars" />
 </a>
 <hr />
 <a target="_blank" href="https://github.com/ac5tin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac5tin&show_icons=true&theme=radical&count_private=true&layout=compact" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ac5tin&show_icons=true&theme=radical&count_private=true&layout=compact" />
 </a>
 
 <!--
